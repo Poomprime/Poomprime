@@ -1,5 +1,5 @@
  I’m @Poomprime
-HTML CSS SQL PHP JAVA REACT.JS NODE.JS 
+HTML CSS SQL PHP JAVA REACT.JS 
 - 📫 How to reach me nutthapoombuakhai3@gmail.com
 
 <!---
