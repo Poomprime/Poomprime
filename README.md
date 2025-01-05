@@ -1,6 +1,6 @@
  I’m @Poomprime
-HTML CSS SQL PHP JAVA REACT.JS 
-- 📫 How to reach me nutthapoombuakhai3@gmail.com
+HTML CSS SQL JAVASCRIPT REACT.JS 
+- 📫 How to reach me nutthapoom.business@gmail.com
 
 <!---
 Poomprime/Poomprime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
